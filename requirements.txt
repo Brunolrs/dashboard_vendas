@@ -2,5 +2,4 @@ plotly==6.3.0
 pandas==2.2.3
 requests==2.31.0
 
-[server]
-port = 8502
+
